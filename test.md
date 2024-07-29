@@ -6,3 +6,6 @@ asdfüalskdfjlösdkafj
 
 ## Subtitle
 khkl
+
+[Link auf Page2](https://waltervoetschcortes.github.io/page2.html)
+
